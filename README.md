@@ -17,7 +17,7 @@ A simple rule-based chatbot developed using Python.
 - Python
 - Google Colab
 
-## Task 1 Folder
+## Task 2 Folder
 Task 2: Movie Recommendation System
 
 A simple movie recommendation system developed using Python.
