@@ -22,25 +22,29 @@ Task 2: Movie Recommendation System
 
 A simple movie recommendation system developed using Python.
 
-Features
+## Features
 
 - Takes a movie name from the user
 - Finds movies with similar genres
 - Recommends up to 3 similar movies
 - Uses content-based filtering
 - Uses genre similarity to generate recommendations
-- Task 3: Face Detection AI
+- Task 2 Folder
+
+"Task2_Recommendation_System/recommendation_system.py"
+
+## Task 3: Face Detection AI
 
 An AI application that detects human faces in images using a pre-trained Haar Cascade classifier.
 
-Features
+  ##  Features
 
 - Detects human faces in images
 - Uses a pre-trained Haar Cascade model
 - Draws rectangles around detected faces
 - Counts the number of detected faces
 
-Technology Used
+ ## Technology Used
 
 - Python
 - OpenCV
@@ -56,6 +60,4 @@ Technology Used
 - Python
 - Google Colab
 
-Task 2 Folder
-
-"Task2_Recommendation_System/recommendation_system.py"
+- 
