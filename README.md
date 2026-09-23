@@ -18,3 +18,23 @@ A simple rule-based chatbot developed using Python.
 - Google Colab
 
 ## Task 1 Folder
+Task 2: Movie Recommendation System
+
+A simple movie recommendation system developed using Python.
+
+Features
+
+- Takes a movie name from the user
+- Finds movies with similar genres
+- Recommends up to 3 similar movies
+- Uses content-based filtering
+- Uses genre similarity to generate recommendations
+
+Technology Used
+
+- Python
+- Google Colab
+
+Task 2 Folder
+
+"Task2_Recommendation_System/recommendation_system.py"
