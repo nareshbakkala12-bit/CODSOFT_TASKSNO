@@ -29,6 +29,27 @@ Features
 - Recommends up to 3 similar movies
 - Uses content-based filtering
 - Uses genre similarity to generate recommendations
+- Task 3: Face Detection AI
+
+An AI application that detects human faces in images using a pre-trained Haar Cascade classifier.
+
+Features
+
+- Detects human faces in images
+- Uses a pre-trained Haar Cascade model
+- Draws rectangles around detected faces
+- Counts the number of detected faces
+
+Technology Used
+
+- Python
+- OpenCV
+- Haar Cascade Classifier
+- Google Colab
+
+Task 3 Folder
+
+"Task3_Face_Detection/face_detection.py"
 
 Technology Used
 
