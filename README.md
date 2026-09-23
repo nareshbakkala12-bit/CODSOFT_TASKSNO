@@ -30,6 +30,9 @@ A simple movie recommendation system developed using Python.
 - Uses content-based filtering
 - Uses genre similarity to generate recommendations
 - Task 2 Folder
+- ## Technology Used
+- Python
+- Google Colab
 
 "Task2_Recommendation_System/recommendation_system.py"
 
